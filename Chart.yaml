@@ -1,6 +1,6 @@
 apiVersion: v2
-name: react-site-application
+name: final-project-polybot-deployment
 description: A Helm chart for Kubernetes
 
-version: 2.0.1
+version: 2.2.1
 
