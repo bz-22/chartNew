@@ -1,5 +1,0 @@
-flask
-requests
-telebot
-loguru
-boto3
